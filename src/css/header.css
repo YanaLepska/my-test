@@ -30,7 +30,6 @@ body {
 
 .sidebar {
   display: flex;
-  justify-content: center;
   max-width: 335px;
   max-height: 228px;
   overflow-y: scroll;
